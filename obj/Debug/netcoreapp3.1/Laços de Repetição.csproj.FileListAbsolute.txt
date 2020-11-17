@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\bin\Debug\netcoreapp3.1\Laços de Repetição.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\bin\Debug\netcoreapp3.1\Laços de Repetição.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\bin\Debug\netcoreapp3.1\Laços de Repetição.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\bin\Debug\netcoreapp3.1\Laços de Repetição.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\bin\Debug\netcoreapp3.1\Laços de Repetição.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\bin\Debug\netcoreapp3.1\Laços de Repetição.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\obj\Debug\netcoreapp3.1\Laços de Repetição.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\obj\Debug\netcoreapp3.1\Laços de Repetição.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\obj\Debug\netcoreapp3.1\Laços de Repetição.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\obj\Debug\netcoreapp3.1\Laços de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\obj\Debug\netcoreapp3.1\Laços de Repetição.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\obj\Debug\netcoreapp3.1\Laços de Repetição.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Laços de Repetição\obj\Debug\netcoreapp3.1\Laços de Repetição.genruntimeconfig.cache
