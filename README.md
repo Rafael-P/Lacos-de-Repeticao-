@@ -1,0 +1,2 @@
+# Lacos-de-Repeticao-
+4 execícios - [ ]  For     - Escreva um algoritmo que exiba todos os números inteiros de 0 a     50.     - Escreva um algoritmo que exiba números de 200 à 100 em ordem decrescente - [ ]  While     - Escreva um algoritmo que pergunte a idade de um artista famoso e continue perguntando até ela acertar a idade correta, ex: 28  - [ ]  Do While     - Escreva um algoritmo que pergunte a idade de um artista famoso e continue perguntando até ela acertar a idade correta, ex: 28
